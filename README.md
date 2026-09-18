@@ -1,4 +1,4 @@
-# Air Quality Intelligence: India Air Pollution Monitoring
+# Air Quality Intelligence: India Air Pollution Monitoring,Operational and Risk Analysis
 
 An end-to-end SQL + Power BI analytics project that converts raw, station-level air pollution and weather data into actionable intelligence for data analysts, policy/compliance officers, and public health researchers across India.
 
